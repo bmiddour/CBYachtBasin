@@ -1,7 +1,7 @@
 clear all
 close all
 % Enter input /directory/ and fileName root without file extension
-inputDir  = '/Users/derekgrimes/OneDriveUNCW/Data/CB_YachtBasin/MarshMadness/AQD5459/';
+inputDir  = 'C:\Users\bcm3620\OneDrive - UNC-Wilmington\THESIS\Marsh_Madness\ADCP\DATA\IOP1\AQD5459';
 inputFile = 'CB_N101';
 fileName  = [inputDir,filesep,inputFile];
 % Enter raw output /directory/ and fileName without .mat
